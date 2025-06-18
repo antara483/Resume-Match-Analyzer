@@ -1,0 +1,23 @@
+/* Parsing.css
+body {
+  background-color: #f5f7fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ant-table {
+  border-radius: 8px;
+}
+
+.ant-card {
+  background-color: #fff;
+} */
+/* In App.css or a style tag */
+.ant-table-thead > tr > th {
+  
+  background-color: #dddd65 !important;
+  
+  
+  color: rgb(18, 18, 18) !important;
+  font-weight: bold;
+}
+
