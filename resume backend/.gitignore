@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Logs and runtime files
+*.log
+logs/
+
+# Uploaded files 
+uploads/
+
+# VS Code settings 
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Database or test artifacts (optional)
+*.db
+*.sqlite3
+
+# PyInstaller output
+*.spec
+
+# Test cache and coverage
+.pytest_cache/
+.coverage
+htmlcov/

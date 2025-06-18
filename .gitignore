@@ -1,0 +1,14 @@
+# React frontend
+my-app/node_modules
+my-app/.env
+
+# Python backend
+resume-backend/venv/
+resume-backend/__pycache__/
+resume-backend/.env
+
+# General
+*.pyc
+*.pyo
+.DS_Store
+.env
